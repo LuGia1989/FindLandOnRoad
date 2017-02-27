@@ -1,4 +1,4 @@
-# Project1_FindLandOnRoad
+# FindLandOnRoad
 In this project folder, you will find:
 Project1_WriteUp.ipynb                -> this is jupyter write-up report for this project
 project_FindLanesOnRoad_rev.2.ipynb   -> this is the jupyter coding section for this project
